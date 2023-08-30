@@ -19,24 +19,25 @@ App Store – это магазин приложений для устройст
 											
 2. Нажмите на фото вашей учетной записи.
 
-![image1](https://github.com/aleksandraerm/portfolio/assets/113373633/5942eb77-7750-4188-b94a-bac6d17ff850)
+![1](https://github.com/aleksandraerm/portfolio/assets/113373633/72e08d85-4f9c-4ddf-a9de-4b512feeb007)
 
 3. Нажмите «Обновить» напротив выбранного приложения или «Обновить все» для обновления всех приложений.
 
-![image2](https://github.com/aleksandraerm/portfolio/assets/113373633/dba8656c-87ef-4413-b1b4-3e5df96e8d2c)
+![2](https://github.com/aleksandraerm/portfolio/assets/113373633/8407763a-3a2e-4f0d-8eed-ad9ca477a140)
 
 > [!IMPORTANT]
 >  Если вы не хотите обновлять приложения вручную, настройте автоматическое обновление приложений, для этого:
-
+>
 > 1. Откройте системные настройки вашего устройства.
-
+>
 > 2. Перейдите во вкладку App Store.
-
-> ![image3](https://github.com/aleksandraerm/portfolio/assets/113373633/533840f2-4cf7-42f1-bd5a-72ad6f382d60)
-
+>
+> ![3](https://github.com/aleksandraerm/portfolio/assets/113373633/cd225b8a-466d-4efc-ba62-3f4acdbb41d2)
+>
 > 3. Установите переключатель в пункте «Приложения» в разделе «Автоматические загрузки».
+>
+> ![4](https://github.com/aleksandraerm/portfolio/assets/113373633/9de04c59-92cb-4eb8-8203-f5e2b9627e81)
 
-> ![image4](https://github.com/aleksandraerm/portfolio/assets/113373633/cdb558ca-a146-4e4e-ae41-9ba6b44f6b55)
 
 
 
